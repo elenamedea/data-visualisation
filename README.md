@@ -38,7 +38,7 @@ print(.plot)
 rm(.df, .plot)
 ```
 ### (2) PCoA Plot
-Principal Coordinates Analysis(PCoA) is a statistical method that converts data on distances between items into map-based visualization of those items.
+Principal Coordinates Analysis (PCoA) is a statistical method that converts data on distances between items into map-based visualization of those items.
 
 The generated mappings can be used for better understanding which items are close to each other, and which are different. It can also allow you to identify groups or clusters.
 
