@@ -18,7 +18,7 @@ External links to the scientific publications: [1](https://www.uni-goettingen.de
 A box plot and kernel density plot hybrid that shows summary statistics as well as the full distribution of the data.
 
 <p align="left">
-  <img src="R_plots/violin_plot.jpeg" width = "70%" height = "87%"/>
+  <img src="R_plots/violin_plot.jpeg" />
 </p>
 
 
