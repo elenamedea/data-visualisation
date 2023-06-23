@@ -15,7 +15,7 @@ External links to the scientific publications: [1](https://www.uni-goettingen.de
 <br>
 
 ### (1) Violin Plot
-A box plot and kernel density plot hybrid that shows summary statistics as well as the full distribution of the data
+A box plot and kernel density plot hybrid that shows summary statistics as well as the full distribution of the data.
 
 <p align="left">
   <img src="R_plots/violin_plot.jpeg" width = "70%" height = "87%"/>
@@ -43,7 +43,7 @@ Principal Coordinates Analysis(PCoA) is a statistical method that converts data 
 The generated mappings can be used for better understanding which items are close to each other, and which are different. It can also allow you to identify groups or clusters.
 
 <p align="left">
-  <img src="R_plots/pcoa_plot.jpeg" width = "37%" height = "50%"/>
+  <img src="R_plots/pcoa_plot.jpeg" width = "70%" height = "87%"/>
 </p>
 
 
@@ -68,7 +68,7 @@ rm(.df, .plot)
 A barplot is used to display the relationship between a numeric and a categorical variable.
 
 <p align="left">
-  <img src="R_plots/barplot.jpg" width = "37%" height = "50%"/>
+  <img src="R_plots/barplot.jpg" width = "70%" height = "87%"/>
 </p>
 
 
